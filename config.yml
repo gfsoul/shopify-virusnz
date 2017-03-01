@@ -1,0 +1,8 @@
+development:
+    theme_id: 161365577
+    password: 9d7f59e0ce99d40b9fc08089d8b64620
+    store: virus-nz.myshopify.com
+    timeout: 180s
+    ignore_files:
+        - config.yml
+        - .gitignore
